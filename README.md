@@ -11,7 +11,7 @@ The CLI is also responsible for hot module reloading in development mode, and fo
 ### Installation
 
 ```sh
-yarn add fusion-cli
+yarn add fusion-cli-typescript
 ```
 
 ---
